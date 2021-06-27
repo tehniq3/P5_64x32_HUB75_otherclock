@@ -7,7 +7,6 @@ info2: https://github.com/tehniq3/P5_64x32_HUB75
 
 ![1](https://1.bp.blogspot.com/-rrRF4TP0uN0/YNizbQ0j2vI/AAAAAAAAeh0/k649_RFOjAIE3LxI9xZqrq3aT5ry0AGCACLcBGAsYHQ/s320/umiditate_afisaj.jpg)
 ![2](https://1.bp.blogspot.com/-tvVQxUHwzm8/YNizI-NT0eI/AAAAAAAAeho/AvcaG41Eo6kMR-1Q3OkxXHkuMMrGfgNPwCLcBGAsYHQ/s320/temp_afisaj.jpg)
-
 ![ip](https://1.bp.blogspot.com/-prTomSnKDTY/YNix3b-9foI/AAAAAAAAehc/LwZGutq3qBsEhEGiOpPTPA-B-ds3lWE-wCLcBGAsYHQ/s320/ip_afisaj.jpg)
 
-![font](http://nicuflorica.blogspot.com/2021/06/ceas-ntp-pe-afisaj-p5-rgb-64x32-cu.html)
+![font](https://1.bp.blogspot.com/-iZ3N_tj1cKA/YNi3E1GEj5I/AAAAAAAAeh8/9_WNRQZnq3gCXyScBs8CPT6waCRRDmfAgCLcBGAsYHQ/s801/librarienoua1.png)
