@@ -6,6 +6,9 @@
 // - package_esp8266com_index.json found at http://arduino.esp8266.com/stable/package_esp8266com_index.json
 // Find All "Great Projects" Videos : https://www.youtube.com/channel/UCCC8DuqicBtP3A_aC53HYDQ/videos
 
+// small updates by Nicu FLORICA (niq_ro)
+// https://nicuflorica.blogspot.com/
+
 
 #include "DHT.h"
 #define DHTPIN 0 
@@ -551,7 +554,7 @@ char WebPage[] =
   "<form id=\"date_form\" name=\"frmText\">" \
    "<div class=\"data-input\">" \
    "<b class=\"button-blue\" style=\"width:8%\">GMT+</b>" \
-   "<input type=\"number\" value=\"0\" name=\"restmie\" min=\"-12\" max=\"+12\" class=\"button-blue\" style=\"width:6%\">" \
+   "<input type=\"number\" value=\"+3\" name=\"restmie\" min=\"-12\" max=\"+12\" class=\"button-blue\" style=\"width:6%\">" \
    "<input type=\"submit\" value=\"Update Time\" onClick=\"resttime()\" class=\"button-blue\" style=\"width:80%\">" \
    "</div><div class=\"data-input\">" \
    "<input type=\"submit\" name = \"rerset\" value=\"Restart ESP8266\" onClick=\"restart()\" class=\"button-blue\">" \
